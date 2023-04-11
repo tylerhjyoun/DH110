@@ -27,6 +27,7 @@ Search | <img src="./img/search.PNG" width = "30%">
 
 #### Initial Impressions
 
+As I first landed on the home page of the app, I found it difficult to see where the activities registration was. Once I found it, I had to go through a registration process and then begin searching through the available classes. There was no application available on Apple's App Store to reserve or register for classes, so I had to resort to using the web application using Safari. The following evaluation and screenshots were taken on a small iPhone mobile device, which the webpage may not have specifically been design for. Overall, it is clear that there was limited work put into making the mobile experience good for all age groups, as it seems crowded and not organized. 
 
 #### 1. Visibility of System Status (Severity Score: 2)
 After selecting a class and clicking on apply, the user is sent to the checkout process. However, there's no status bar for the user to know how far along they are or how many steps are left. Even though there are five waivers to sign, there is no status information visible to the user of their progress. Furthermore, the waivers are placed at the bottom of the page, even though the checkout button is at the top, making it confusing for the user to determine the proper next steps and make mistakes. Thus, this heuristic is violated by the app. Given that the userbase is potentially senior citizens who will have to go through the registration process, it should be given some priority to help with accessibility, and so this heuristic was scored a 2. 
