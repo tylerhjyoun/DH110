@@ -170,7 +170,7 @@ There is no FAQ or form of interactive customer support if someone was lost or c
 
 <img src="./img/IMG_2715.PNG" width ="30%">
 
-#### Here are the final tabulated severity scores for the LA County Parks & Rec Webapp:
+#### Here are the final tabulated severity scores for the Wondrium App:
 
 | Heuristic | Severity Scores (1-3)| 
 | --- | --- |
