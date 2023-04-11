@@ -4,6 +4,18 @@
 
 Connecting with family can happen through shared experiences, and can be made lasting through created artifacts and knowledge. Fun and traditional activities for groups of all ages can be found in our local community centers, where courses about arts and crafts, health and fitness, and more are offered. To determine how digital tools can be used to help us connect more with our families through shared activities and coures, one app and one webapp were analyzed using [Nielson's 10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/). These webapp/apps were selected based on their ability to accomplish a core task: register for an in-person/virtual course for a group of two or more family members that share a common interest like painting, yoga, or gardening. 
 
+| Heuristic | Definition/Points | 
+| --- | --- | --- |
+| 1. Visibility of System Status | Informs users about what is happening, provides feedback in reasonable amount of time |
+| 2. Match Between System and the Real World | Language should be familiar to user, follow real world conventions to present information logically and naturally
+| 3. User Control and Freedom | Users have freedom to undo mistakes and redo actions, clear way to exit an unwanted state
+| 4. Consistency and Standards | Following conventions and standards to prevent users from being unsure about certain words, situations, or actions
+| 5. Error Prevention | Preventing errors through careful design, instead of error messages | 
+| 6. Recognition rather than Recall | Making options visible, providing relevant information as necessary, easily retrievable instructions 
+| 7. Flexibility and Efficiency of Use | Accelerators to speed interaction with site, tailoring of most frequently used actions
+| 8. Aesthetic and Minimalist Design | Minimal irrelevant or rarely needed information, making most important information visible, without distractions
+| 9. Help Users Recognize, Diagnose, and Recover from Errors | If error occurs, make clear to user the problem and constructive solution | 
+| 10. Help and Documentation | Easy to search, task-focused, concrete steps, not overwhelming | 
 
 ### App #1: LA County Parks & Recreation WebApp
 
@@ -13,18 +25,8 @@ Home |  <img src="./img/homepage.PNG" width ="30%">
 Sign-in | <img src="./img/signin.PNG" width = "30%">
 Search | <img src="./img/search.PNG" width = "30%">
 
-| Heuristic | Definition/Points | Severity Rating |
-| --- | --- | --- |
-| 1. Visibility of System Status | 
-| 2. Match Between System and the Real World
-| 3. User Control and Freedom
-| 4. Consistency and Standards
-| 5. Error Prevention
-| 6. Recognition rather than Recall
-| 7. Flexibility and Efficiency of Use
-| 8. Aesthetic and Minimalist Design
-| 9. Help Users Recognize, Diagnose, and Recover from Errors
-| 10. Help and Documentation 
+#### Initial Impressions
+
 
 #### 1. Visibility of System Status (Severity Score: 3)
 After selecting a class and clicking on apply, the user is sent to the checkout process. However, there's no status bar for the user to know how far along they are or how many steps are left. Even though there are five waivers to sign, there is no status information visible to the user of their progress. Furthermore, the waivers are placed at the bottom of the page, even though the checkout button is at the top, making it confusing for the user to determine the proper next steps and make mistakes. Thus, this heuristic is violated by the app. Given that the userbase is potentially senior citizens who will have to go through the registration process, it 
@@ -77,6 +79,9 @@ There is a lack of a home button to return to the search page. If a user wants t
 <img src="./img/IMG_2695.PNG" width ="30%">
 
 #### 8. Aesthetic and Minimalist Design (Severity Score: 3)
+Once the user lands onto the LA County Reservations system, which is where you can register for classes or make reservations, they are immediately greeted with large images and walls of text which are instructions to complete the core task. Instead of the design being intuitive to navigate and use, it makes the user have to search for the next step by reading the text. It also does not help that there is a lack of spacing between different elements, which overload users with information. 
+
+<img src="./img/IMG_2702.PNG" width ="30%">
 
 #### 9. Help Users Recognize, Diagnose, and Recover from Errors (Severity Score: 3)
 From the figure provided in point 5, we can see that the information provided to the user from the error message can be confusing and cryptic. It seems that the errors were spawned from the same issue, yet two messages were given. It also does not differentiate between the two points, but simply gives a large wall of text explaining what the error is. However, it does provide a next step to the user in order to resolve this error. 
@@ -86,3 +91,17 @@ A Frequently Asked Question (FAQ) section is available and has a list of questio
 
 <img src="./img/IMG_2694.PNG" width ="30%">
 
+#### Here are the final tabulated severity scores for the LA County Parks & Rec Webapp:
+
+| Heuristic | Severity Scores (1-3)| 
+| --- | --- |
+| 1. Visibility of System Status |  |
+| 2. Match Between System and the Real World | 
+| 3. User Control and Freedom |
+| 4. Consistency and Standards | 
+| 5. Error Prevention | 
+| 6. Recognition rather than Recall
+| 7. Flexibility and Efficiency of Use 
+| 8. Aesthetic and Minimalist Design |
+| 9. Help Users Recognize, Diagnose, and Recover from Errors |
+| 10. Help and Documentation 
