@@ -4,6 +4,7 @@
 
 Connecting with family can happen through shared experiences, and can be made lasting through created artifacts and knowledge. Fun and traditional activities for groups of all ages can be found in our local community centers, where courses about arts and crafts, health and fitness, and more are offered. To determine how digital tools can be used to help us connect more with our families through shared activities and coures, one app and one web app were analyzed using [Nielson's 10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/). These apps were selected based on their ability to accomplish a core task: register for an in-person/virtual course for a group of two or more family members that share a common interest like painting, yoga, or gardening. 
 
+### Nielson's 10 Usability Heuristics
 | Heuristic | Definition/Points | 
 | --- | --- |
 | 1. Visibility of System Status | Informs users about what is happening, provides feedback in reasonable amount of time |
@@ -115,7 +116,7 @@ Sign-in | <img src="./img/IMG_2719.PNG" width = "30%">
 Search | <img src="./img/IMG_2720.PNG" width = "30%">
 
 #### Initial Impressions
-The previous web application is used to register for courses at the local community centers in Los Angeles county. For families who may not all be together at the same time physically, or have scheduling conflicts, applications that offer virtual courses can provide convenient methods to have an interesting and fun shared activity. Wondrium is one application that provides a catalogue of courses on various topics such as cooking, science, wine, and more. 
+The previous web application is used to register for courses at the local community centers in Los Angeles county. For families who may not all be together at the same time physically, or have scheduling conflicts, applications that offer virtual courses can provide convenient methods to have an interesting and fun shared activity. Wondrium is one application that provides a catalogue of courses on various topics such as cooking, science, wine, and more. This application also requires a membership fee in order to use its courses. Upon first use and navigating around the app, I notice that the application is not very responsive and can be laggy after quick operations. This may affect the usability of the app. It also has limited functionality, and only allows for few operations. 
 
 #### 1. Visibility of System Status (Severity Score: 2)
 The response time of the app limits its effectiveness when it comes to this heuristic. As the user scrolls through the selections, once a picture is tapped, it has a 1-2 second delay before the description page for the course shows up. Instead of having the user wait and think that the system is unresponsive, there should be a visible loading bar or circle that rotates and notifies the user of the status. This issue also occurs when searching for items. This can be scored a 2 in severity, as it makes the experience laggy, but does not affect the usability too severely. 
@@ -183,3 +184,15 @@ There is no FAQ or form of interactive customer support if someone was lost or c
 | 8. Aesthetic and Minimalist Design | 3
 | 9. Help Users Recognize, Diagnose, and Recover from Errors | 2
 | 10. Help and Documentation | 3
+
+### Citations
+From the assignment document:
+How to conduct a heuristic evaluation by NNgroup
+https://www.nngroup.com/articles/how-to-conduct-a-heuristic-evaluation/
+10 tips on how to conduct heuristic evaluation by V. Batchu
+https://medium.muz.li/10-tips-on-how-to-conduct-a-perfect-heuristic-evaluation-ae5f8f4b3257
+Template by Rutger University’s
+http://aspoerri.comminfo.rutgers.edu/Teaching/InfoVisOnline/HEtemplate.
+10 Usability Hearistics for User Interface Design
+https://www.nngroup.com/articles/ten-usability-heuristics/
+
