@@ -5,7 +5,7 @@
 Connecting with family can happen through shared experiences, and can be made lasting through created artifacts and knowledge. Fun and traditional activities for groups of all ages can be found in our local community centers, where courses about arts and crafts, health and fitness, and more are offered. To determine how digital tools can be used to help us connect more with our families through shared activities and coures, one app and one webapp were analyzed using [Nielson's 10 Usability Heuristics for User Interface Design](https://www.nngroup.com/articles/ten-usability-heuristics/). These webapp/apps were selected based on their ability to accomplish a core task: register for an in-person/virtual course for a group of two or more family members that share a common interest like painting, yoga, or gardening. 
 
 | Heuristic | Definition/Points | 
-| --- | --- | --- |
+| --- | --- |
 | 1. Visibility of System Status | Informs users about what is happening, provides feedback in reasonable amount of time |
 | 2. Match Between System and the Real World | Language should be familiar to user, follow real world conventions to present information logically and naturally
 | 3. User Control and Freedom | Users have freedom to undo mistakes and redo actions, clear way to exit an unwanted state
