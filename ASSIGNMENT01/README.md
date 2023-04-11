@@ -110,9 +110,9 @@ A Frequently Asked Question (FAQ) section is available and has a list of questio
 
 Page             |  Screenshot
 :-------------------------:|:-------------------------:
-Home |  <img src="./img/homepage.PNG" width ="30%">
-Sign-in | <img src="./img/signin.PNG" width = "30%">
-Search | <img src="./img/search.PNG" width = "30%">
+Home |  <img src="./img/IMG_2717.PNG" width ="30%">
+Sign-in | <img src="./img/IMG_2719.PNG" width = "30%">
+Search | <img src="./img/IMG_2720.PNG" width = "30%">
 
 #### Initial Impressions
 The previous web application is used to register for courses at the local community centers in Los Angeles county. For families who may not all be together at the same time physically, or have scheduling conflicts, applications that offer virtual courses can provide convenient methods to have an interesting and fun shared activity. Wondrium is one application that provides a catalogue of courses on various topics such as cooking, science, wine, and more. 
@@ -120,58 +120,54 @@ The previous web application is used to register for courses at the local commun
 #### 1. Visibility of System Status (Severity Score: 2)
 The response time of the app limits its effectiveness when it comes to this heuristic. As the user scrolls through the selections, once a picture is tapped, it has a 1-2 second delay before the description page for the course shows up. Instead of having the user wait and think that the system is unresponsive, there should be a visible loading bar or circle that rotates and notifies the user of the status. This issue also occurs when searching for items. This can be scored a 2 in severity, as it makes the experience laggy, but does not affect the usability too severely. 
 
-<img src="./img/IMG_2685.PNG" width ="30%">
+<img src="./img/IMG_2705.PNG" width ="30%">
 
-<img src="./img/IMG_2686.PNG" width ="30%">
+<img src="./img/IMG_2706.PNG" width ="30%">
 
 
 #### 2. Match Between System and the Real World (Severity Score: 1)
-The home page of the app is similar to Netflix's layout, but has some issues with its sorting. For instance, the listings for the most popular courses and the most trending courses are not at the top but rather at the bottom. This type of arrangement is not expected to the user, as they would look for most popular movies at the top. Since it is mostly an arrangement issue that can be resolved easily, this was scored a one. 
+The home page of the app is similar to Netflix's layout, but has some issues with its sorting. For instance, the listings for the top rated courses and the most trending courses shown in the image below are not at the top but rather at the bottom. This type of arrangement is not expected to the user, as they would look for most popular movies at the top. Since it is mostly an arrangement issue that can be resolved easily, this was scored a one. 
 
-<img src="./img/IMG_2687.PNG" width ="30%">
+<img src="./img/IMG_2707.PNG" width ="30%">
 
 #### 3. User Control and Freedom (Severity Score: 2)
 In other applications with similar functionalities, before providing a catalogue of diverse and random courses, they ask surveys or provide a short questionnaire to better tailor the home page to the user. Furthermore, they still give the option for the user to add or change the topics that they are the most interested in. This allows the user to control their experience to their own liking, without having to continuously search through an enormous catalogue without personalization. Recommending the right content to the users is an important design challenge, and not accomplishing it can mean decreased interaction and immersion, effectiving the usability of the app. Therefore, this was scored a 2. 
 
-<img src="./img/IMG_2689.PNG" width ="30%">
+<img src="./img/IMG_2708.PNG" width ="30%">
 
 #### 4. Consistency and Standards (Severity Score: 2)
-Once the user finds a course that they are interested in, they have the ability to add the course to their watchlist. However, they also have the ability to add individual episodes of the course to their watchlist. These two actions can both happen, and they do not relate to each other in terms of the app's functionality. However, we know that if we include the entire course to the watchlist, then we expect the individual episodes to be added as well. In other words, we should not have the ability to add these episodes. This is a severity score of 2, since it impedes the usability of the app and makes it confusing for the user. 
-<img src="./img/IMG_2687.PNG" width ="30%">
+Once the user finds a course that they are interested in, they have the ability to add the course to their watchlist. However, they also have the ability to add individual episodes of the course to their watchlist. These two actions can both happen, and they do not relate to each other in terms of the app's functionality. However, we know that if we include the entire course to the watchlist, then we expect the individual episodes to be added as well. In other words, we should not have the ability to add these episodes. This is a severity score of 2, since it impedes the usability of the app and makes it confusing for the user.
 
-<img src="./img/IMG_2691.PNG" width ="30%">
-
+<img src="./img/IMG_2709.PNG" width ="30%">
 
 #### 5. Error Prevention (Severity Score: 1)
 In the search bar, there are some usability issues that have to do with no results, rather than an error. However, these failures to retrieve results should still be either prevented or remediated. For example, when searching 'vietnamese food', there are zero matches for any courses that have that topic, but the results still show items that the engine thinks is relevant. Instead, the error message should show, that there were no results with those exact key words, and offer the results as alternatives. This is a minor cosmetic issue for this app, since results do pop up, but the user is not notified of the failure to find 'vietnamese food'. So, this heuristic was scored a 1. 
 
-<img src="./img/IMG_2696.PNG" width ="30%">
+<img src="./img/IMG_2710.PNG" width ="30%">
 
 
-#### 6. Recognition rather than Recall (Severity Score: 2)
-For the search bar, its use is limited to just searching for items. It does not save previous searches, or provide suggestions based on trending data. If the bar did provide a form of recommendation or save, then the user would not have to recall or try to remember what was searched previously. Moreover, the home page does not store previously watched content to easily pick up where the user left off. This was scored a 2, since it affects the general flow and usability for those who use the app regularly and would like to access the most recently seen courses. 
+#### 6. Recognition rather than Recall (Severity Score: 1)
+For the search bar, its use is limited to just searching for items. It does not save previous searches, or provide suggestions based on trending data. If the bar did provide a form of recommendation or save, then the user would not have to recall or try to remember what was searched previously. However, the home page does store previously watched content using the watchlist feature to easily pick up where the user left off. This was scored a 1, since it does have a method to prioritize content, but should still be fixed to provide recommendations based on watched content.  
 
-<img src="./img/IMG_2693.PNG" width ="30%">
+<img src="./img/IMG_2716.PNG" width ="30%">
 
 #### 7. Flexibility and Efficiency of Use (Severity Score: 3)
-There is a lack of a filter on the home page as well as the search page. There is no way to parse through what is popular or trending on the home page, and the user is just given a large catalogue to browse. The search bar also just provides a list of matching courses based on keywords, but does not provide any way to filter those results further. Also, the watchlist where the programs and episodes are stored do not have a search or filter option for the user to browse their list, making it less efficient to find what they need. 
-
-<img src="./img/IMG_9DC1C157B438-1.jpeg" width ="30%">
-
-<img src="./img/IMG_2695.PNG" width ="30%">
+There is a lack of a filter on the home page as well as the search page, which we can see from the image in heuristic 5. There is no way to parse through what is popular or trending on the home page, and the user is just given a large catalogue to browse. The search bar also just provides a list of matching courses based on keywords, but does not provide any way to filter those results further. Also, the watchlist where the programs and episodes are stored do not have a search or filter option for the user to browse their list, making it less efficient to find what they need. 
 
 #### 8. Aesthetic and Minimalist Design (Severity Score: 3)
 The catagories list in the Browse tab is not aesthetic, as it is just a list of words. Instead, they could have provided a small icon or image that symbolizes the category for easier recognition. Furthermore, instead of providing over 10 categories, they could have just shown 3-4 of the most popular ones at the top with larger text and images, while still providing a way to access more categories. This was scored a 3, as this navigation plays a large part in making the experience less overwhelming for the user. 
 
-<img src="./img/IMG_2702.PNG" width ="30%">
+<img src="./img/IMG_2713.PNG" width ="30%">
 
 #### 9. Help Users Recognize, Diagnose, and Recover from Errors (Severity Score: 2)
 The error that I was able to produce was through failing the payment process for signing up for the monthly plan of the app. The message was simple and it was easy to understand what the exact error was, but it did not provide next steps or what to do next. This was scored a 1, since producing this error is rare and generally easily resolvable if it occurs.
 
+<img src="./img/IMG_2714.PNG" width ="30%">
+
 #### 10. Help and Documentation (Severity Score: 3) 
 There is no FAQ or form of interactive customer support if someone was lost or confused. They do have a message center where you can message or provide feedback, but there is no direct support to assist with the app. This could be problematic if the user has no idea how to use the app and needs assistance. This was scored a 3, as having even a small FAQ would help the user experience.
 
-<img src="./img/IMG_2694.PNG" width ="30%">
+<img src="./img/IMG_2715.PNG" width ="30%">
 
 #### Here are the final tabulated severity scores for the LA County Parks & Rec Webapp:
 
@@ -182,7 +178,7 @@ There is no FAQ or form of interactive customer support if someone was lost or c
 | 3. User Control and Freedom |2
 | 4. Consistency and Standards | 2
 | 5. Error Prevention | 1
-| 6. Recognition rather than Recall | 2
+| 6. Recognition rather than Recall | 1
 | 7. Flexibility and Efficiency of Use | 2
 | 8. Aesthetic and Minimalist Design | 3
 | 9. Help Users Recognize, Diagnose, and Recover from Errors | 2
