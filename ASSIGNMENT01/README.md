@@ -72,6 +72,8 @@ On the search page, for each class we are given some relevant information like t
 #### 7. Flexibility and Efficiency of Use (Severity Score: 3)
 There is a lack of a home button to return to the search page. If a user wants to navigate between where-ever they are on the website back to searching for classes again, they have to click on the sidebar and then 'Activities', which may log them out of their account. In another section, there are limited ways to filter through the available courses, to separate them from the 'Cancelled', 'Closed', and 'Full' classes.
 
+<img src="./img/IMG_9DC1C157B438-1.jpeg" width ="30%">
+
 <img src="./img/IMG_2695.PNG" width ="30%">
 
 #### 8. Aesthetic and Minimalist Design (Severity Score: 3)
