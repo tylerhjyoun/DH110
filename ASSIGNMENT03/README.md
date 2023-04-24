@@ -7,7 +7,7 @@ In the previous assignment we looked at an existing web-application, the LA Coun
 ### (1) Specifying the Design Challenge
 
 #### What is the main activity your project would support for the users?
-The main activity that my project is supporting for the users is being able to find an activity that they can do with their family that promotes family connection and bonding. In theme with our class's topic for the quarter of family connection, we want to help users of three different generations (teenager, middle-aged, senior) connect by taking an interesting class or learning about some topic together. 
+The main activity that my project is supporting for the users is being able to find an activity that they can do with their family that promotes family connection and bonding. Specically, searching and registering for recreational courses and activities at the local community center. In theme with our class's topic for the quarter of family connection, we want to help users of three different generations (teenager, middle-aged, senior) connect by taking an interesting class or learning about some topic together. 
 
 #### What is the basic need/goal involved for that activity?
 The basic need involved for this activity is to provide an engaging and open medium for family members to connect more with each other. The basic goal involved for this activity is finding something that is interesting to all parties involved and doing it as a unit. 
