@@ -30,12 +30,23 @@ Expertise: Since many course offerings and events are beginner friendly, there a
 Mainstream vs. Extreme: These activities can be categorized as mainstream, as they are accessible to a wide audience. The courses are beginer-level and not meant to have a high barrier of entry. The focus is rather on making the overall experience engaging and interesting such that the family can bond. 
 
 #### In which context (where, why, under which conditions) would the users do that activity? 
+Where: The users would do this activity from their phones or any device that can access the internet and the websites. It would involve in-person activities at the local community center or any other designated area.
+
+Why: The users would do this activity of searching for classes in order to find the most well-suited class for their entire family so that they can have an educational bonding experience together. 
+
+Under Which Conditions: To accomodate for schedules for all three generations, this activity would most likely be for the weekends or during holidays, when they have the most free time to take a course.
 
 #### What would the users usually do in order to complete that activity? 
+1. Searching for activities on the internet by looking at various websites. Choose the most accessible community center or location.
+2. Filter activites based on the preferences and interests of all family members. Choose an activity that works for all parties.
+3. Register for the course on line and pay any fees and sign forms.
+4. Sharing the activity or schedule with other family members through email or social media.
 
 ### (3) Selecting a qualitative Research Method
-#### by covert / overt observation
-#### by active / passive / participatory interaction 
+#### By Overt Observation
+In the context of this activity, we will use overt observation and engage with the participants directly to know their thought process and ask questions as well. We want the participants to behave naturally and communicate transparently with them. 
+#### By Passive Interaction 
+The researcher will not interact with the participants in their natural environment. This is chosen so that there will be no bias or external influences on their behavior and the observation can remain unbiased. 
 
 #### Link to my Contextual Inquiry Guide
 
