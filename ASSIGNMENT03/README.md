@@ -7,20 +7,27 @@ In the previous assignment we looked at an existing web-application, the LA Coun
 ### (1) Specifying the Design Challenge
 
 #### What is the main activity your project would support for the users?
-The main activity that my project is supporting for the users is being able to find an activity that they can do with their family. In theme with our class's topic for the quarter of family connection, we want to help users of three different generations (teenager, middle-aged, senior) connect by taking an interesting class or learning about some topic together. 
+The main activity that my project is supporting for the users is being able to find an activity that they can do with their family that promotes family connection and bonding. In theme with our class's topic for the quarter of family connection, we want to help users of three different generations (teenager, middle-aged, senior) connect by taking an interesting class or learning about some topic together. 
 
 #### What is the basic need/goal involved for that activity?
-The basic need involved for this activity is the need for an engaging and open medium for family members to connect more with each other. The basic goal involved for this activity is finding something that is interesting to all parties involved and doing it as a unit. 
+The basic need involved for this activity is to provide an engaging and open medium for family members to connect more with each other. The basic goal involved for this activity is finding something that is interesting to all parties involved and doing it as a unit. 
 
 #### What is(are) the traditional/current solution(s) to satisfy the needs?
-The traditional solutions are to do so a search on the internet for free and interesting courses that people can do together. They can look for virtual courses, or potentially find a course listing at the local community center. 
+The traditional solutions are search websites for local activities and events, visiting local community centers for course lisings, and browsing bulletin boards and newspapers for events. 
 
 #### What is(are) the limitation(s) that possibly would be improved?
-Although finding virtual courses online is free and feasible, it is not as interactive and engaging for the audience. When it comes to looking for courses at their local community center, it can be improved by making the listing more accessible for people.
+The limitations of these current solutions is that they may not have a diverse range of activities that can cater to the needs or are well suited for the different generations. It is  challenging to find an activity that would be engaging, interesting, and affordable across the generations as well. Thus, a more personlized platform with filtering on a wide range ofinterests and age groups can help improve these issues. 
 
 ### (2) Identifying the Target Users
 
 #### What are the characteristics of users? (ex. demographics, preference, expertise, mainstream vs. extreme) 
+Demographics: As stated above, we are targeting families, specifically spanning three different generations of teenager, middle-aged, and senior. 
+
+Preference: The users would prefer activities that cater to their own interests. The activity needs to be engaging and educational as well. Depending on the interests of the family as a collective, they may prefer outdoor experiences or cultural activities. 
+
+Expertise: Since many course offerings and events are beginner friendly, there are activities suitable for all members of the family. If a member has previous expertise already in the subject though, it may not be as engaging for them.
+
+Mainstream vs. Extreme: These activities can be categorized as mainstream, as they are accessible to a wide audience. The courses are beginer-level and not meant to have a high barrier of entry. The focus is rather on making the overall experience engaging and interesting such that the family can bond. 
 
 #### In which context (where, why, under which conditions) would the users do that activity? 
 
