@@ -49,12 +49,19 @@ In the context of this activity, we will use overt observation and engage with t
 The researcher will not interact with the participants in their natural environment. This is chosen so that there will be no bias or external influences on their behavior and the observation can remain unbiased. 
 
 #### Link to my Contextual Inquiry Guide
+Click [here](https://docs.google.com/document/d/1j7jNYOsnioIqX9X2Da-08KlVyhgZyrvKFp-OcZ811cY/edit?usp=sharing) to go to guide
 
 #### Link to the video file
+Click [here](https://drive.google.com/file/d/1B8Fh6AlrsESKWKrClfCpLBYfyEpnk28C/view?usp=share_link) to go to the video file
 
 #### My Interview Transcript and Observation Notes
+Click [here](https://docs.google.com/document/d/1-WWG2-aMggmQFbC9SZFcrsRFnWc27NDMmG_0OKRWdRw/edit?usp=sharing) to go to the interview transcript
+
+Click [here](https://docs.google.com/document/d/1iwZguflqZxZMBQUmLhN_O1uFkJ5qFiJyDgQLNCWuT1I/edit?usp=sharing) to go to the observation notes
 
 ### Reflection from Field Study
 #### Insights from the Data
+The data that I collected during this session was important in catching things that I otherwise may not have noticed. By going back to the fundamental problem that the webapp was trying to solve, I conducted this contextual inquiry to better understand how this core activity would occur without the webapp that I had researched in the previous assignment. I had not considered things such as having a feature that allows the user to access the instructor's portfolio or reviews, even though those elements are really important factors when it comes to choosing a class. By making the reviews for both the class and the instructor accessible, we provide a more full picture of what the class is going to entail. My participant did not like how the course description for the classes on the website were vague and did not comprehensively list what the course would include, which is important especially if one class costs over $100! 
 
 #### Lessons Learned
+In conducting this interview, I learned that it is essential to establish a comfortable rapport with the participant, either by trying to make conversation or encouraging them to freely talk and discuss about their experiences. I also learned that asking more open-ended questions produced fruitful answers, rather than simple yes or no questions. In the next contextual interview, I would try to be more flexible and adaptable, maybe by preparing a backup plan in the event that we go in a different direction. Furthermore, it was an interesting experience conducting an overt and passive observation method, as even though I noticed the participant veering off slightly from the focus of the task at times, I was able to understand and see why they did so since they were performing it as they would normally. 
