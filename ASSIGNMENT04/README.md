@@ -16,5 +16,51 @@
 ### Personas
 
 Persona 1
-Name
+Name: Pam Johnson
+Age: 45
+Location: Los Angeles, CA
+Ethnicity: Caucasian
+Marital Status: Married with children
+Occupation: Stay at home mom
+Personality: Nurturing, Family-Oriented, Health-Conscious, Organized
+- Motivations and Needs
+She wants to strengthen the bond within her family and create lasting memories with them
+values the opportunity to spend time with her children and husband as a stay-at-home mom
+wants to find activities to bring themn closer together to explore new interests as a family
+
+- Goals
+find fun classes that her entire family can do together
+discover opportunities that can cater to different demographics so that everyone is engaged and involved
+creating a harmonious and enjoyable environment where they can build shared experiences
+
+- Challenges
+difficult to find activities that can cater to all of her children
+accomodating everyone's schedule with classes that are convenient and flexible
+the classes should be affordable and fit in the family's budget.
+
+- Hobbies
+cooking and experimenting with different recipes
+gardening and nurturing plants
+hiking and going on nature walks 
+
+- Story
+
+Persona 2
+Name: Sean Smith
+Age: 18
+Location: Irvine, CA
+Ethnicity: African American
+Marital Status: Single
+Occupation: Senior High school Student
+Personality: 
+- Motivations and Needs
+
+- Goals
+
+- Challenges
+
+- Hobbies
+
+- Story
+
 ### Scenarios
