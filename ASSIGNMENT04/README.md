@@ -52,12 +52,20 @@ Location: Irvine, CA
 Ethnicity: African American
 Marital Status: Single
 Occupation: Senior High school Student
-Personality: 
+Personality: Ambituous, Sociable, Curious
 - Motivations and Needs
+wants to make lasting memories with his family before he leaves for college
+has a genuine passion for learning and aquiring new knowledge 
+wants to explore his individuality by expressing himself in new and diverse experiences 
 
 - Goals
+excelling academically in his final year of high school
+explore career interests and gain clarity about his future path
+create meaningful experiences with his family 
 
 - Challenges
+difficult to balance his school work with spending time with his family
+finding activities that are interesting to him and the rest of his family
 
 - Hobbies
 
