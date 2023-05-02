@@ -56,4 +56,6 @@ Once he installs the app, he is prompted with a sign up page, where he can regis
 
 The overall process is intuitive for Sean, who finds the process easy and simple, as the app guides him in tailoring his family profile’s preferences. He likes the ability to input his family’s information and interests, and how it recommends classes based on everyone’s preferences.
 
+##### Sean's Journey Map
+
 ![](s3.png)
