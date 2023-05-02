@@ -32,7 +32,7 @@ We want to step into the shoes of our users to understand the types of people th
 
 ### Scenarios
 
-#### Scenario 1
+#### Scenario 1: Searching for a Class and Booking it for Multiple People
 
 One day, Pam, a stay-at-home mom, takes her two sons, who are in elementary school, to the library next to their local community center. While her children are browsing the shelves, she reads a poster on the bulletin board announcing that course sign ups are now open for a variety of topics. Interested, she uses her phone to look up LA County’s Parks and Recreation website to see what classes are available. Recently, she had been looking for some new activities that she could do with her family during the summer, as her parents would be visiting as well to stay with them. With her children being on vacation, she not only needed something to keep them occupied, she wanted to find a way to connect her family and create lasting memories. 
 
@@ -46,7 +46,7 @@ Once she confirms her booking, she receives an email that she can now forward to
 
 ![](p3.png)
 
-#### Scenario 2
+#### Scenario 2: Setting up a Family Profile
 
 Sean is a high school senior finishing up his last year before he heads off to college. He realizes that because of how busy he was in his Junior year, dealing with AP exams, college applications, and maintaining his high GPA, that he wasn’t able to spend a lot of quality time with his family. With the last few remaining months that he has, he decides to make it a priority to strengthen the connection with his family by participating in a shared activity with them.
 
