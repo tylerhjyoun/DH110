@@ -41,6 +41,18 @@ by getting feedback we can refine and fix any confusing and unnecessary elements
 
 ### Wireflow Testing Interview
 
-[Interview Video](https://drive.google.com/file/d/1JcHxT3kjK-y1ZLp79AboU92l_Hc3l-fb/view?usp=sharing)
+##### Video
+[Link to Interview Video](https://drive.google.com/file/d/1JcHxT3kjK-y1ZLp79AboU92l_Hc3l-fb/view?usp=sharing)
+
+#### Feedback
+My participant liked the course description page, noting how it was easy to see the date and time of the course. She also liked the Instructor review section, as it gave insight into the course too. However, one critisism she had was that there were slight aesthetic inconsistencies that could be distracting (font size differences), and that the page felt slightly crowded. Since there's so much information that needs to be presented, it would be easier to digest if the boxes and information was more spaced out for the user. 
 
 ### Reflection
+
+While preparing the low-fidelity prototype, I realized that it was easier to do with a detailed scenario description, where every step and button clicked is explained. However, even with that information, there is a lot of space to fill in the prototype, with little details to design as well. I learned that creating even a low-fidelity prototype takes a significant amount of effort, as it is laying the based for a higher fidelity version in the future.
+
+For next time, I think it would be very useful to be as detailed as possible when describing the scenario. Every button that is clicked and every information presented should be as fleshed out as possible so that making the wireframe becomes a simpler process. By doing so, I would not have come up with designs on the fly.
+
+Moreoever, during the wireflow testing process, I think the process went overall smoothly, as Figma's prototyping tools are effective and intuitive. However, I did notice that the devil is in the details, as every back button or cancel button also needed to be added into the flow. It can get very complicated quickly, which is why I believe that organization is very important aspect of prototyping. 
+
+To revise my low-fidelity prototype, I think I can fix the spacing issues on the course description page, as my participant noted that I could make it feel less cramped overall. 
