@@ -25,11 +25,22 @@ by getting feedback we can refine and fix any confusing and unnecessary elements
 
 ### Task 1: Creating a Family Profile
 
+[Link to Flow](https://www.figma.com/proto/4iDCdne1obJxYrZUgDrkhk/FamConnect---Lofi?page-id=0%3A1&type=design&node-id=1-4&viewport=-95%2C-42%2C0.26&scaling=scale-down&starting-point-node-id=1%3A4)
+
 ![](task1_flow.png)
 
-### Task 2: Selecting and Registering for a Course
+### Task 2: Selecting and Registering for a Course 
+
+[Link to Flow](https://www.figma.com/proto/4iDCdne1obJxYrZUgDrkhk/FamConnect---Lofi?page-id=0%3A1&type=design&node-id=19-264&viewport=-95%2C-42%2C0.26&scaling=scale-down&starting-point-node-id=1%3A4)
 
 ![](task2.png)
 
 ### Prototype
-[Link to Prototype](https://www.figma.com/proto/4iDCdne1obJxYrZUgDrkhk/FamConnect---Lofi?page-id=0%3A1&type=design&node-id=1-4&viewport=-95%2C-42%2C0.26&scaling=scale-down&starting-point-node-id=1%3A4)
+
+[Link to Full Prototype](https://www.figma.com/proto/4iDCdne1obJxYrZUgDrkhk/FamConnect---Lofi?page-id=0%3A1&type=design&node-id=1-4&viewport=-95%2C-42%2C0.26&scaling=scale-down&starting-point-node-id=1%3A4)
+
+### Wireflow Testing Interview
+
+[Interview Video](https://drive.google.com/file/d/1JcHxT3kjK-y1ZLp79AboU92l_Hc3l-fb/view?usp=sharing)
+
+### Reflection
