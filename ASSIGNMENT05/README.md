@@ -25,5 +25,11 @@ by getting feedback we can refine and fix any confusing and unnecessary elements
 
 ### Task 1: Creating a Family Profile
 
+![](task1_flow.png)
+
 ### Task 2: Selecting and Registering for a Course
 
+![](task2.png)
+
+### Prototype
+[Link to Prototype](https://www.figma.com/proto/4iDCdne1obJxYrZUgDrkhk/FamConnect---Lofi?page-id=0%3A1&type=design&node-id=1-4&viewport=-95%2C-42%2C0.26&scaling=scale-down&starting-point-node-id=1%3A4)
