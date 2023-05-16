@@ -20,9 +20,23 @@ based on our personas. I selected the "greeting" page, which is the
 
 <i> Initial Wireframe from Low Fidelity </i>
 
+To see the full prototype tool page to see all compiled designs, click [here]().
+
 ### Screen Design
 
+The following designs are iterations of the typography, shape,
+and colors of the user interface. 
+
+#### Typographic Variations
+
+#### Shape Variations
+
+#### Color Variations
+
+#### Layout Test
+
 ### Impression Test
+
 
 ### Accessibity Test - Color Contrast
 
