@@ -20,7 +20,10 @@ based on our personas. I selected the "greeting" page, which is the
 
 <i> Initial Wireframe from Low Fidelity </i>
 
-To see the full prototype tool page to see all compiled designs, click [here](https://www.figma.com/proto/E2g7jNfSWoaL61kmesBRP2/FamConnect-Interface-Design?page-id=0%3A1&type=design&node-id=1-2&viewport=206%2C-981%2C0.44&scaling=scale-down).
+To see the Digitized Wireflow, click [here](https://www.figma.com/proto/E2g7jNfSWoaL61kmesBRP2/FamConnect-Interface-Design?page-id=0%3A1&type=design&node-id=1-2&viewport=206%2C-981%2C0.44&scaling=scale-down).
+
+To see Test Screens and Design Iterations, click [here](https://www.figma.com/file/E2g7jNfSWoaL61kmesBRP2/FamConnect-Interface-Design?type=design&node-id=0%3A1&t=ZBcOYuD760OLwOXT-1).
+
 
 ### Screen Design
 
