@@ -37,3 +37,15 @@ The second task is the interface to select and register for a class. The user sh
 #### [Task 2 Flow Prototype](https://www.figma.com/proto/5l8zgUIN22RhNNb4DzaPMl/Final-High-Fidelity?type=design&node-id=0-1&viewport=576%2C521%2C0.3&scaling=min-zoom&starting-point-node-id=1%3A11942&show-proto-sidebar=1)
 
 #### [All Wireframes and Components](https://www.figma.com/file/5l8zgUIN22RhNNb4DzaPMl/Final-High-Fidelity?type=design&node-id=0%3A1&t=rIJ0YKp7fqvz3h5l-1)
+
+### Cognitive Walkthrough
+
+#### [Link to Interview Recording](https://drive.google.com/file/d/16OgcR0-RZCphLgANMG4tYoexUye9igqU/view?usp=sharing)
+
+In the process, I found that I had to be meticulous about the prototype flow, by being thorough with every button. My participant would try to interact with elements that I had not planned on making interactive, or had missed while building the prototype. Overall, my interview/cognitive walkthrough went smoothly, as the participant was able to accomplish both of the tasks. 
+
+For both of the tasks, she was able to identify which buttons or links led to the next frame and step, as well as what configuration options were available. She also commented on the colors and sizing of the design system, stating how they were easy to distinguish from the background, as were pleasing to look at.
+
+One thing that she said could be improved for future steps is adding a wireframe flow that also adds a section or reminder of registered classes after you sign up for them. This would be useful and probably be important information for those who are opening the app to pull up event information. 
+
+Based on the feedback that I got from the prototype testing, I would add more wireframes, and more interactive components for the user, such as reminders of registered classes. However, I think that the current wireflows are sufficient in completing the specified tasks. 
