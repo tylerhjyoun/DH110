@@ -1,6 +1,8 @@
 # FamConnect: Bond with your family through engaging courses and activities!
 
-# Tyler Youn
+## Tyler Youn
+
+## UCLA DH110 Spring 2023
 
 ## Introduction 
 
@@ -8,29 +10,73 @@ This project aims to enhance and improve family bonding by facilitating a platfo
 
 ## Design Statement
 
-The challenge was about family connection, and how we can use digital means to enhance it. To speak on my personal experience, I believe that spending quality time by doing a shared and fun activity is an excellent way to bond with family. However, a common problem that emerges is finding and discovering unique and interesting things to do. It is important to bridge the gap between families and groups who are seeking activities, and the unbooked activities and things that are available for them. I believe that by resolving this issue with my project, it will provide families with hours of new and fun experiences. 
+The challenge was about family connection, and how we can use digital means to enhance it. To speak on my personal experience, I believe that spending quality time by doing a shared and fun activity is an excellent way to bond with family. However, a common problem that emerges is finding and discovering unique and interesting things to do. It is important to bridge the gap between families and groups who are seeking activities, and the unbooked activities and things that are available for them. 
+
+In this project, I found that users want a convenient and simple way to be able to register for such courses. Moreover, based on user feedback, providing curated recommendations based on interests and availablity can make it easier and more likely for families to choose a course. I believe that by resolving this issue with my project, it will provide families with hours of new and fun experiences. 
 
 ## Competitor Analysis 
-The research in this web document shows that users want a convenient and simple way to be able to register for such courses. Moreover, based on user feedback, providing recommendations based on 
+
+### Heuristic Evaluation
+
+Using Nielson's 10 Usability Heuristics for User Interface Design, I evaluated two apps based on their ability to accomplish a core task: register for an in-person/virtual course for a group of two or more family members that share a common interest like painting, yoga, or gardening. 
+
+1. LA County Parks & Recreation WebApp
+ - Consistency and Standards (Sev. Score: 3)
+ - Aesthetic and Minimalist Design (Sev. Score: 3)
+2. Wondrium App
+- Flexibility and Efficiency of Use (Sev. Score: 3)
+- Aesthetic and Minialist Design (Sev. Score: 3)
+
+[See full heuristic evaluation]()
+
+### Usability Testing
+
+[See full usability test]()
+
+## User Research
+
+User research [contextual inquiry, assignment03]:
+Summary text and image, link to your assignment folder
+
+[See full contextual inquiry]()
+
+## UX Storytelling
+
+UX storytelling [persona+scenario, assignment04]
+Summary text and image, link to your assignment folder
+
+[See full UX storytelling document]()
 
 
-4) Competitor analysis [assignment01 & 02]: This approach was inspirred by 
-Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
+## Low-Fidelity Prototype
 
-5) User research [contextual inquiry, assignment03]:
-Summary text and image, link to your assignment folder
-6) UX storytelling [persona+scenario, assignment04]
-Summary text and image, link to your assignment folder
-7) Wireframe and graphic design element variation [assignment05]
-Summary text and image, link to your assignment folder
-8) Low-fidelity prototype (wireflow, assignment06)
+8) Low-fidelity prototype (wireflow, assignment05)
 Summary and link to the sketches (may contains the multiple versions and evaluation history)
+
+
+## Wireframes and Graphic Designs
+
+Wireframe and graphic design element variation [assignment06]
+Summary text and image, link to your assignment folder
+
+[See all interface design wireframes]()
+
+## High-Fidelity Prototype
+
 9) High-fidelity prototype (functional/interactive prototype, assignment07)
 Summary statement and link to or an embedded prototype
+
+[See High-fidelity prototype]()
+
+## Evaluation and Revisions
 10) Optional evaluation and revision history 
 Including cognitive walkthrough; impression test, accessibility audit, NEW usability testing), per each summary and link to the notes (when you share the video or other detailed evidences, I will notify you when you can make the contents private as soon as your work is graded)
+
+## Pitch Video
 11) Pitch video [update the video after recording your presentation]
-12) conclusion: what you learned throughout the process
+
+## Conclusion
+13) conclusion: what you learned throughout the process
 
 
 
