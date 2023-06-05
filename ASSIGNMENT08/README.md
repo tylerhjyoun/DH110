@@ -19,6 +19,10 @@ In this project, I found that users want a convenient and simple way to be able 
 
 Using Nielson's 10 Usability Heuristics for User Interface Design, I evaluated two apps based on their ability to accomplish a core task: register for an in-person/virtual course for a group of two or more family members that share a common interest like painting, yoga, or gardening. 
 
+![LA P&R Home](../ASSIGNMENT01/img/homepage.PNG)
+
+![Wondrium Home](../ASSIGNMENT01/img/IMG_2717.PNG)
+
 1. LA County Parks & Recreation WebApp
  - Consistency and Standards (Sev. Score: 3)
  - Aesthetic and Minimalist Design (Sev. Score: 3)
