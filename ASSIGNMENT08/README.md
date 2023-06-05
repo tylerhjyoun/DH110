@@ -8,6 +8,16 @@
 
 This project aims to enhance and improve family bonding by facilitating a platform where families can easily find classes and activities in their communities. By providing a simple registration process as well as a curated selection of courses, this application aims to make it as easy as possible for a family to discover their next weekend activity. The following web document includes user research and competitor analysis, as well as storytelling elements, to justify and aid in building a wireflame and flow. It takes a full and complete approach to present a novel design to respond to the design challenge.  
 
+
+<div class="columns">
+  <div class="column">
+    <!-- Content for the first column -->
+  </div>
+  <div class="column">
+    <!-- Content for the second column -->
+  </div>
+</div>
+
 ## Design Statement
 
 The challenge was about family connection, and how we can use digital means to enhance it. To speak on my personal experience, I believe that spending quality time by doing a shared and fun activity is an excellent way to bond with family. However, a common problem that emerges is finding and discovering unique and interesting things to do. It is important to bridge the gap between families and groups who are seeking activities, and the unbooked activities and things that are available for them. 
